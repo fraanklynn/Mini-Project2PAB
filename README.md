@@ -114,5 +114,9 @@ Aplikasi menyediakan pilihan **mode terang (Light Mode)** dan **mode gelap (Dark
 #### ![Login](screenshots/loginn.png)
 2. Halaman Register
 #### ![Register](screenshots/register.png)
+3. Dark Mode
+#### ![DarkMode](screenshots/darkmode.png)
+4. Light Mode
+#### ![LightMode](screenshots/lightmode.png)
 
   

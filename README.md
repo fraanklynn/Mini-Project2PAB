@@ -109,7 +109,10 @@ Aplikasi menyediakan pilihan **mode terang (Light Mode)** dan **mode gelap (Dark
 - **Navigator**  
   Digunakan untuk mengatur perpindahan halaman dalam aplikasi seperti dari login ke halaman utama atau ke halaman form.
 
-
-
+## Screenshot Nilai Tambah
+1. Halaman Login
+#### ![Login](screenshots/loginn.png)
+2. Halaman Register
+#### ![Register](screenshots/register.png)
 
   
